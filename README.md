@@ -2,7 +2,6 @@
 
 This project builds a reproducible pipeline for the **Home Credit Default Risk** competition on Kaggle.
 The goal is to predict the probability of loan default using **multi-table feature aggregation** and **ensemble boosting models** (LightGBM, CatBoost, XGBoost).
-The approach emphasizes transparency, reproducibility, and interpretability for fair credit scoring.
 
 ---
 
@@ -30,6 +29,6 @@ Please download manually and place under the `dataset/` directory.
 | **Stack (LGBM + CB + XGB)** | **0.7922** | Final ensemble model              |
 
 **Kaggle Leaderboard:**
-🏆 *Private Score:* 0.78857  *Public Score:* 0.79108
+*Private Score:* 0.78857  *Public Score:* 0.79108
 
 ---
